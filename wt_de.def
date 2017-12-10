@@ -1,0 +1,10 @@
+EXPORTS
+wt_get_crypto_provider_info
+wt_get_sign_crypto_provider
+wt_init
+wt_init_crypto_sign_context
+wt_get_cipher_crypto_provider
+wt_connect
+wt_get_last_error
+wt_set_connection_param
+wt_getstataddr
