@@ -3308,3 +3308,470 @@
 12/09/17 22:54:30.746 [TID=5404] FreeKADevice: Step1 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
 12/09/17 22:54:30.746 [TID=5404] FreeKADevice: Step2 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
 12/09/17 22:54:31.756 [TID=5788] on_dll_process_detach
+12/10/17 10:54:50.106 [TID=3320] CPAPI_NewCryptoContext: Step1
+12/10/17 10:54:50.106 [TID=3320] CPAPI_NewCryptoContext: Step2
+12/10/17 10:54:50.106 [TID=3320] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/10/17 10:54:50.106 [TID=3320] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/10/17 10:54:54.653 [TID=3320] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/10/17 10:54:54.653 [TID=3320] CPAPI_NewCryptoContext: Step1
+12/10/17 10:54:54.653 [TID=3320] CPAPI_NewCryptoContext: Step2
+12/10/17 10:54:55.053 [TID=3320] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/10/17 10:54:57.837 [TID=3892] process_step3: Step1, nServerSysNo = 0
+12/10/17 10:55:10.025 [TID=3320] on_dll_process_detach
+12/11/17 17:54:43.710 [TID=5864] CPAPI_NewCryptoContext: Step1
+12/11/17 17:54:43.720 [TID=5864] CPAPI_NewCryptoContext: Step2
+12/11/17 17:54:43.720 [TID=5864] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 17:54:43.740 [TID=5864] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/11/17 17:54:47.946 [TID=5864] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 17:54:47.956 [TID=5864] CPAPI_NewCryptoContext: Step1
+12/11/17 17:54:47.956 [TID=5864] CPAPI_NewCryptoContext: Step2
+12/11/17 17:54:48.347 [TID=5864] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 17:54:50.860 [TID=4532] process_step3: Step1, nServerSysNo = 0
+12/11/17 17:56:11.897 [TID=5828] CPAPI_FreeCryptoContext: Step1
+12/11/17 17:56:11.897 [TID=5828] CPAPI_FreeCryptoContext: Step2
+12/11/17 17:56:11.897 [TID=5828] FreeKADevice: Step1 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 17:56:11.897 [TID=5828] FreeKADevice: Step2 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 17:59:15.080 [TID=5864] on_dll_process_detach
+12/11/17 18:59:53.040 [TID=6888] CPAPI_NewCryptoContext: Step1
+12/11/17 18:59:53.040 [TID=6888] CPAPI_NewCryptoContext: Step2
+12/11/17 18:59:53.040 [TID=6888] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 18:59:53.060 [TID=6888] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/11/17 18:59:57.166 [TID=6888] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 18:59:57.166 [TID=6888] CPAPI_NewCryptoContext: Step1
+12/11/17 18:59:57.166 [TID=6888] CPAPI_NewCryptoContext: Step2
+12/11/17 18:59:57.557 [TID=6888] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:00:00.561 [TID=7596] process_step3: Step1, nServerSysNo = 0
+12/11/17 19:00:15.563 [TID=4548] CPAPI_FreeCryptoContext: Step1
+12/11/17 19:00:15.563 [TID=4548] CPAPI_FreeCryptoContext: Step2
+12/11/17 19:00:15.563 [TID=4548] FreeKADevice: Step1 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:00:15.563 [TID=4548] FreeKADevice: Step2 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:00:18.217 [TID=6888] on_dll_process_detach
+12/11/17 19:01:04.273 [TID=6456] CPAPI_NewCryptoContext: Step1
+12/11/17 19:01:04.273 [TID=6456] CPAPI_NewCryptoContext: Step2
+12/11/17 19:01:04.273 [TID=6456] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:01:04.283 [TID=6456] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/11/17 19:01:08.178 [TID=6456] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:03:38.505 [TID=7084] CPAPI_NewCryptoContext: Step1
+12/11/17 19:03:38.505 [TID=7084] CPAPI_NewCryptoContext: Step2
+12/11/17 19:03:38.505 [TID=7084] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:03:38.515 [TID=7084] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/11/17 19:03:42.721 [TID=7084] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:09:10.762 [TID=7084] CPAPI_NewCryptoContext: Step1
+12/11/17 19:09:10.762 [TID=7084] CPAPI_NewCryptoContext: Step2
+12/11/17 19:09:11.143 [TID=7084] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:11:33.518 [TID=4792] CPAPI_NewCryptoContext: Step1
+12/11/17 19:11:33.518 [TID=4792] CPAPI_NewCryptoContext: Step2
+12/11/17 19:11:33.518 [TID=4792] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:11:33.538 [TID=4792] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D45CB0
+12/11/17 19:11:37.924 [TID=4792] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:11:51.273 [TID=4792] CPAPI_NewCryptoContext: Step1
+12/11/17 19:11:51.273 [TID=4792] CPAPI_NewCryptoContext: Step2
+12/11/17 19:11:51.674 [TID=4792] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:17:49.338 [TID=6944] process_step3: Step1, nServerSysNo = 0
+12/11/17 19:20:23.320 [TID=7208] CPAPI_NewCryptoContext: Step1
+12/11/17 19:20:23.320 [TID=7208] CPAPI_NewCryptoContext: Step2
+12/11/17 19:20:23.320 [TID=7208] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:20:23.354 [TID=7208] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/11/17 19:20:28.013 [TID=7208] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:20:32.015 [TID=7208] CPAPI_NewCryptoContext: Step1
+12/11/17 19:20:32.015 [TID=7208] CPAPI_NewCryptoContext: Step2
+12/11/17 19:20:32.402 [TID=7208] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:20:41.361 [TID=7896] process_step3: Step1, nServerSysNo = 0
+12/11/17 19:26:53.295 [TID=6200] CPAPI_NewCryptoContext: Step1
+12/11/17 19:26:53.295 [TID=6200] CPAPI_NewCryptoContext: Step2
+12/11/17 19:26:53.295 [TID=6200] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:26:53.315 [TID=6200] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D45CB0
+12/11/17 19:26:57.672 [TID=6200] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:27:01.767 [TID=6200] CPAPI_NewCryptoContext: Step1
+12/11/17 19:27:01.767 [TID=6200] CPAPI_NewCryptoContext: Step2
+12/11/17 19:27:02.158 [TID=6200] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:27:08.918 [TID=7012] process_step3: Step1, nServerSysNo = 0
+12/11/17 19:43:22.478 [TID=6280] CPAPI_NewCryptoContext: Step1
+12/11/17 19:43:22.478 [TID=6280] CPAPI_NewCryptoContext: Step2
+12/11/17 19:43:22.478 [TID=6280] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:43:22.498 [TID=6280] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D45CB0
+12/11/17 19:43:26.704 [TID=6280] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:43:31.611 [TID=6280] CPAPI_NewCryptoContext: Step1
+12/11/17 19:43:31.611 [TID=6280] CPAPI_NewCryptoContext: Step2
+12/11/17 19:43:32.041 [TID=6280] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:43:44.299 [TID=5516] process_step3: Step1, nServerSysNo = 0
+12/11/17 19:54:21.906 [TID=6948] CPAPI_NewCryptoContext: Step1
+12/11/17 19:54:21.906 [TID=6948] CPAPI_NewCryptoContext: Step2
+12/11/17 19:54:21.906 [TID=6948] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:54:21.916 [TID=6948] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00C25CB0
+12/11/17 19:54:26.272 [TID=6948] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:54:29.176 [TID=6948] CPAPI_NewCryptoContext: Step1
+12/11/17 19:54:29.176 [TID=6948] CPAPI_NewCryptoContext: Step2
+12/11/17 19:54:29.547 [TID=6948] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:54:38.119 [TID=6548] process_step3: Step1, nServerSysNo = 0
+12/11/17 19:55:12.409 [TID=5816] CPAPI_NewCryptoContext: Step1
+12/11/17 19:55:12.409 [TID=5816] CPAPI_NewCryptoContext: Step2
+12/11/17 19:55:12.409 [TID=5816] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:55:12.419 [TID=5816] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00C25CB0
+12/11/17 19:55:16.805 [TID=5816] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:55:19.739 [TID=5816] CPAPI_NewCryptoContext: Step1
+12/11/17 19:55:19.739 [TID=5816] CPAPI_NewCryptoContext: Step2
+12/11/17 19:55:20.120 [TID=5816] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:55:29.703 [TID=6696] process_step3: Step1, nServerSysNo = 0
+12/11/17 19:58:57.612 [TID=7608] CPAPI_NewCryptoContext: Step1
+12/11/17 19:58:57.612 [TID=7608] CPAPI_NewCryptoContext: Step2
+12/11/17 19:58:57.612 [TID=7608] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 19:58:57.632 [TID=7608] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00C25CB0
+12/11/17 19:59:01.929 [TID=7608] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 19:59:05.163 [TID=7608] CPAPI_NewCryptoContext: Step1
+12/11/17 19:59:05.163 [TID=7608] CPAPI_NewCryptoContext: Step2
+12/11/17 19:59:05.514 [TID=7608] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 19:59:16.670 [TID=8188] process_step3: Step1, nServerSysNo = 0
+12/11/17 20:01:11.750 [TID=6744] CPAPI_NewCryptoContext: Step1
+12/11/17 20:01:11.750 [TID=6744] CPAPI_NewCryptoContext: Step2
+12/11/17 20:01:11.750 [TID=6744] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 20:01:11.768 [TID=6744] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00C25CB0
+12/11/17 20:01:15.783 [TID=6744] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 20:01:32.687 [TID=6744] CPAPI_NewCryptoContext: Step1
+12/11/17 20:01:32.687 [TID=6744] CPAPI_NewCryptoContext: Step2
+12/11/17 20:01:33.118 [TID=6744] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 20:02:16.373 [TID=5712] process_step3: Step1, nServerSysNo = 0
+12/11/17 20:04:39.379 [TID=6360] CPAPI_NewCryptoContext: Step1
+12/11/17 20:04:39.379 [TID=6360] CPAPI_NewCryptoContext: Step2
+12/11/17 20:04:39.379 [TID=6360] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/11/17 20:04:39.399 [TID=6360] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00C25CB0
+12/11/17 20:04:43.925 [TID=6360] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/11/17 20:04:49.323 [TID=6360] CPAPI_NewCryptoContext: Step1
+12/11/17 20:04:49.323 [TID=6360] CPAPI_NewCryptoContext: Step2
+12/11/17 20:04:49.694 [TID=6360] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/11/17 20:05:29.090 [TID=7364] process_step3: Step1, nServerSysNo = 0
+12/17/17 11:59:42.750 [TID=1908] CPAPI_NewCryptoContext: Step1
+12/17/17 11:59:42.760 [TID=1908] CPAPI_NewCryptoContext: Step2
+12/17/17 11:59:42.760 [TID=1908] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 11:59:42.790 [TID=1908] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D45CB0
+12/17/17 11:59:47.202 [TID=1908] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 12:00:00.633 [TID=1908] CPAPI_NewCryptoContext: Step1
+12/17/17 12:00:00.633 [TID=1908] CPAPI_NewCryptoContext: Step2
+12/17/17 12:00:01.036 [TID=1908] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 12:00:18.703 [TID=1212] process_step3: Step1, nServerSysNo = 0
+12/17/17 12:09:09.575 [TID=3076] CPAPI_NewCryptoContext: Step1
+12/17/17 12:09:09.575 [TID=3076] CPAPI_NewCryptoContext: Step2
+12/17/17 12:09:09.575 [TID=3076] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 12:09:09.585 [TID=3076] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 12:09:13.541 [TID=3076] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 12:16:33.994 [TID=3368] CPAPI_NewCryptoContext: Step1
+12/17/17 12:16:33.994 [TID=3368] CPAPI_NewCryptoContext: Step2
+12/17/17 12:16:33.994 [TID=3368] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 12:16:34.004 [TID=3368] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 12:16:38.431 [TID=3368] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 12:20:52.546 [TID=324 ] CPAPI_NewCryptoContext: Step1
+12/17/17 12:20:52.546 [TID=324 ] CPAPI_NewCryptoContext: Step2
+12/17/17 12:20:52.546 [TID=324 ] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 12:20:52.566 [TID=324 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 12:20:56.452 [TID=324 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 12:21:00.608 [TID=324 ] CPAPI_NewCryptoContext: Step1
+12/17/17 12:21:00.608 [TID=324 ] CPAPI_NewCryptoContext: Step2
+12/17/17 12:21:00.968 [TID=324 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 12:21:07.418 [TID=4008] process_step3: Step1, nServerSysNo = 0
+12/17/17 12:30:53.666 [TID=3052] CPAPI_NewCryptoContext: Step1
+12/17/17 12:30:53.666 [TID=3052] CPAPI_NewCryptoContext: Step2
+12/17/17 12:30:53.666 [TID=3052] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 12:30:53.686 [TID=3052] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 12:30:58.122 [TID=3052] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 12:31:03.099 [TID=3052] CPAPI_NewCryptoContext: Step1
+12/17/17 12:31:03.099 [TID=3052] CPAPI_NewCryptoContext: Step2
+12/17/17 12:31:03.500 [TID=3052] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 12:31:12.893 [TID=136 ] process_step3: Step1, nServerSysNo = 0
+12/17/17 12:35:00.400 [TID=2780] CPAPI_NewCryptoContext: Step1
+12/17/17 12:35:00.400 [TID=2780] CPAPI_NewCryptoContext: Step2
+12/17/17 12:35:00.400 [TID=2780] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 12:35:00.420 [TID=2780] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 12:35:04.206 [TID=2780] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 12:35:27.900 [TID=2780] CPAPI_NewCryptoContext: Step1
+12/17/17 12:35:27.900 [TID=2780] CPAPI_NewCryptoContext: Step2
+12/17/17 12:35:28.280 [TID=2780] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 12:36:13.325 [TID=2656] process_step3: Step1, nServerSysNo = 0
+12/17/17 12:38:17.454 [TID=488 ] CPAPI_NewCryptoContext: Step1
+12/17/17 12:38:17.454 [TID=488 ] CPAPI_NewCryptoContext: Step2
+12/17/17 12:38:17.454 [TID=488 ] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 12:38:17.474 [TID=488 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 12:38:21.409 [TID=488 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 13:08:18.724 [TID=2900] CPAPI_NewCryptoContext: Step1
+12/17/17 13:08:18.724 [TID=2900] CPAPI_NewCryptoContext: Step2
+12/17/17 13:08:18.724 [TID=2900] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 13:08:18.744 [TID=2900] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 13:13:38.263 [TID=3132] CPAPI_NewCryptoContext: Step1
+12/17/17 13:13:38.263 [TID=3132] CPAPI_NewCryptoContext: Step2
+12/17/17 13:13:38.263 [TID=3132] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 13:13:38.283 [TID=3132] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 13:20:44.832 [TID=3632] CPAPI_NewCryptoContext: Step1
+12/17/17 13:20:44.832 [TID=3632] CPAPI_NewCryptoContext: Step2
+12/17/17 13:20:44.832 [TID=3632] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 13:20:44.852 [TID=3632] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 13:20:48.758 [TID=3632] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 13:21:35.635 [TID=3632] CPAPI_NewCryptoContext: Step1
+12/17/17 13:21:35.635 [TID=3632] CPAPI_NewCryptoContext: Step2
+12/17/17 13:21:36.046 [TID=3632] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 14:03:11.053 [TID=2620] CPAPI_NewCryptoContext: Step1
+12/17/17 14:03:11.053 [TID=2620] CPAPI_NewCryptoContext: Step2
+12/17/17 14:03:11.053 [TID=2620] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 14:03:11.063 [TID=2620] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 14:03:15.429 [TID=2620] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 14:08:29.180 [TID=1232] CPAPI_NewCryptoContext: Step1
+12/17/17 14:08:29.190 [TID=1232] CPAPI_NewCryptoContext: Step2
+12/17/17 14:08:29.190 [TID=1232] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 14:08:29.190 [TID=1232] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 14:08:33.096 [TID=1232] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 14:24:48.934 [TID=2620] CPAPI_NewCryptoContext: Step1
+12/17/17 14:24:48.934 [TID=2620] CPAPI_NewCryptoContext: Step2
+12/17/17 14:24:48.934 [TID=2620] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 14:24:48.954 [TID=2620] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 14:24:53.411 [TID=2620] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 14:34:31.442 [TID=1964] CPAPI_NewCryptoContext: Step1
+12/17/17 14:34:31.442 [TID=1964] CPAPI_NewCryptoContext: Step2
+12/17/17 14:34:31.442 [TID=1964] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 14:34:31.462 [TID=1964] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 14:34:35.298 [TID=1964] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 14:43:07.604 [TID=2688] CPAPI_NewCryptoContext: Step1
+12/17/17 14:43:07.604 [TID=2688] CPAPI_NewCryptoContext: Step2
+12/17/17 14:43:07.604 [TID=2688] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 14:43:07.634 [TID=2688] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 14:43:11.500 [TID=2688] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 17:22:18.333 [TID=5824] CPAPI_NewCryptoContext: Step1
+12/17/17 17:22:18.333 [TID=5824] CPAPI_NewCryptoContext: Step2
+12/17/17 17:22:18.333 [TID=5824] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 17:22:18.363 [TID=5824] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 17:22:22.328 [TID=5824] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 17:27:08.019 [TID=5824] CPAPI_NewCryptoContext: Step1
+12/17/17 17:27:08.019 [TID=5824] CPAPI_NewCryptoContext: Step2
+12/17/17 17:27:08.430 [TID=5824] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 17:27:11.484 [TID=5612] process_step3: Step1, nServerSysNo = 0
+12/17/17 17:27:23.772 [TID=5824] on_dll_process_detach
+12/17/17 17:28:02.127 [TID=5500] CPAPI_NewCryptoContext: Step1
+12/17/17 17:28:02.127 [TID=5500] CPAPI_NewCryptoContext: Step2
+12/17/17 17:28:02.127 [TID=5500] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/17/17 17:28:02.127 [TID=5500] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, pfSBKA_CloseSession = 00D35CB0
+12/17/17 17:28:06.243 [TID=5500] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 17:28:06.243 [TID=5500] CPAPI_NewCryptoContext: Step1
+12/17/17 17:28:06.243 [TID=5500] CPAPI_NewCryptoContext: Step2
+12/17/17 17:28:06.563 [TID=5500] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 17:28:09.387 [TID=5796] process_step3: Step1, nServerSysNo = 0
+12/17/17 17:28:26.452 [TID=648 ] CPAPI_FreeCryptoContext: Step1
+12/17/17 17:28:26.452 [TID=648 ] CPAPI_FreeCryptoContext: Step2
+12/17/17 17:28:26.452 [TID=648 ] FreeKADevice: Step1 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 2
+12/17/17 17:28:26.452 [TID=648 ] FreeKADevice: Step2 g_pKAClientFunctions = 00B9F010, g_pKAClientContext = 00B9F140, g_nKAClientContextCount = 1
+12/17/17 17:53:22.258 [TID=5500] on_dll_process_detach
+12/20/17 16:38:10.827 [TID=3848] CPAPI_NewCryptoContext: Step1
+12/20/17 16:38:10.844 [TID=3848] CPAPI_NewCryptoContext: Step2
+12/20/17 16:38:10.844 [TID=3848] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 16:38:10.844 [TID=3848] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 16:38:14.637 [TID=3848] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 16:38:17.358 [TID=3848] on_dll_process_detach
+12/20/17 16:38:40.168 [TID=2380] CPAPI_NewCryptoContext: Step1
+12/20/17 16:38:40.168 [TID=2380] CPAPI_NewCryptoContext: Step2
+12/20/17 16:38:40.168 [TID=2380] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 16:38:40.177 [TID=2380] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 16:38:44.501 [TID=2380] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 16:38:45.522 [TID=2380] on_dll_process_detach
+12/20/17 16:39:27.334 [TID=2732] CPAPI_NewCryptoContext: Step1
+12/20/17 16:39:27.334 [TID=2732] CPAPI_NewCryptoContext: Step2
+12/20/17 16:39:27.334 [TID=2732] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 16:39:27.334 [TID=2732] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 16:39:31.560 [TID=2732] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 16:39:32.842 [TID=2732] on_dll_process_detach
+12/20/17 16:43:08.933 [TID=2868] CPAPI_NewCryptoContext: Step1
+12/20/17 16:43:08.933 [TID=2868] CPAPI_NewCryptoContext: Step2
+12/20/17 16:43:08.933 [TID=2868] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 16:43:08.963 [TID=2868] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 16:43:12.858 [TID=2868] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:21:53.325 [TID=3404] CPAPI_NewCryptoContext: Step1
+12/20/17 17:21:53.325 [TID=3404] CPAPI_NewCryptoContext: Step2
+12/20/17 17:21:53.325 [TID=3404] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:21:53.335 [TID=3404] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:21:57.962 [TID=3404] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:21:59.234 [TID=3404] on_dll_process_detach
+12/20/17 17:23:31.710 [TID=2412] CPAPI_NewCryptoContext: Step1
+12/20/17 17:23:31.710 [TID=2412] CPAPI_NewCryptoContext: Step2
+12/20/17 17:23:31.710 [TID=2412] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:23:31.743 [TID=2412] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:23:36.006 [TID=2412] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:25:52.915 [TID=268 ] CPAPI_NewCryptoContext: Step1
+12/20/17 17:25:52.915 [TID=268 ] CPAPI_NewCryptoContext: Step2
+12/20/17 17:25:52.915 [TID=268 ] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:25:52.925 [TID=268 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:25:56.830 [TID=268 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:39:16.771 [TID=2572] CPAPI_NewCryptoContext: Step1
+12/20/17 17:39:16.781 [TID=2572] CPAPI_NewCryptoContext: Step2
+12/20/17 17:39:16.781 [TID=2572] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:39:16.781 [TID=2572] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:39:21.007 [TID=2572] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:39:22.839 [TID=2572] on_dll_process_detach
+12/20/17 17:39:50.369 [TID=2580] CPAPI_NewCryptoContext: Step1
+12/20/17 17:39:50.369 [TID=2580] CPAPI_NewCryptoContext: Step2
+12/20/17 17:39:50.369 [TID=2580] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:39:50.369 [TID=2580] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:39:54.825 [TID=2580] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:39:55.747 [TID=2580] on_dll_process_detach
+12/20/17 17:42:31.751 [TID=552 ] CPAPI_NewCryptoContext: Step1
+12/20/17 17:42:31.751 [TID=552 ] CPAPI_NewCryptoContext: Step2
+12/20/17 17:42:31.751 [TID=552 ] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:42:31.771 [TID=552 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00CC5CB0
+12/20/17 17:42:35.757 [TID=552 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:48:58.797 [TID=1564] CPAPI_NewCryptoContext: Step1
+12/20/17 17:48:58.797 [TID=1564] CPAPI_NewCryptoContext: Step2
+12/20/17 17:48:58.797 [TID=1564] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:48:58.808 [TID=1564] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:49:03.204 [TID=1564] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:55:55.306 [TID=3340] CPAPI_NewCryptoContext: Step1
+12/20/17 17:55:55.306 [TID=3340] CPAPI_NewCryptoContext: Step2
+12/20/17 17:55:55.306 [TID=3340] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:55:55.316 [TID=3340] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:55:59.232 [TID=3340] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:56:56.765 [TID=5164] CPAPI_NewCryptoContext: Step1
+12/20/17 17:56:56.765 [TID=5164] CPAPI_NewCryptoContext: Step2
+12/20/17 17:56:56.765 [TID=5164] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:56:56.795 [TID=5164] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:57:00.660 [TID=5164] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:58:26.754 [TID=4436] CPAPI_NewCryptoContext: Step1
+12/20/17 17:58:26.754 [TID=4436] CPAPI_NewCryptoContext: Step2
+12/20/17 17:58:26.754 [TID=4436] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:58:26.774 [TID=4436] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 17:58:31.251 [TID=4436] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 17:59:59.377 [TID=3684] CPAPI_NewCryptoContext: Step1
+12/20/17 17:59:59.377 [TID=3684] CPAPI_NewCryptoContext: Step2
+12/20/17 17:59:59.377 [TID=3684] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 17:59:59.407 [TID=3684] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:00:03.493 [TID=3684] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:07:26.951 [TID=4592] CPAPI_NewCryptoContext: Step1
+12/20/17 18:07:26.951 [TID=4592] CPAPI_NewCryptoContext: Step2
+12/20/17 18:07:26.951 [TID=4592] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:07:26.951 [TID=4592] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00CC5CB0
+12/20/17 18:07:31.457 [TID=4592] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:11:21.959 [TID=4168] CPAPI_NewCryptoContext: Step1
+12/20/17 18:11:21.959 [TID=4168] CPAPI_NewCryptoContext: Step2
+12/20/17 18:11:21.959 [TID=4168] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:11:21.999 [TID=4168] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:11:25.885 [TID=4168] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:12:32.470 [TID=5624] CPAPI_NewCryptoContext: Step1
+12/20/17 18:12:32.470 [TID=5624] CPAPI_NewCryptoContext: Step2
+12/20/17 18:12:32.470 [TID=5624] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:12:32.500 [TID=5624] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:12:36.576 [TID=5624] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:12:51.107 [TID=204 ] CPAPI_NewCryptoContext: Step1
+12/20/17 18:12:51.107 [TID=204 ] CPAPI_NewCryptoContext: Step2
+12/20/17 18:12:51.107 [TID=204 ] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:12:51.127 [TID=204 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:12:55.163 [TID=204 ] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:14:10.902 [TID=5584] CPAPI_NewCryptoContext: Step1
+12/20/17 18:14:10.902 [TID=5584] CPAPI_NewCryptoContext: Step2
+12/20/17 18:14:10.902 [TID=5584] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:14:10.942 [TID=5584] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:14:15.138 [TID=5584] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:15:07.703 [TID=4404] CPAPI_NewCryptoContext: Step1
+12/20/17 18:15:07.703 [TID=4404] CPAPI_NewCryptoContext: Step2
+12/20/17 18:15:07.703 [TID=4404] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:15:07.723 [TID=4404] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:15:11.879 [TID=4404] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:32:31.239 [TID=3956] CPAPI_NewCryptoContext: Step1
+12/20/17 18:32:31.239 [TID=3956] CPAPI_NewCryptoContext: Step2
+12/20/17 18:32:31.239 [TID=3956] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:32:31.239 [TID=3956] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:32:35.485 [TID=3956] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:32:47.623 [TID=4572] CPAPI_NewCryptoContext: Step1
+12/20/17 18:32:47.623 [TID=4572] CPAPI_NewCryptoContext: Step2
+12/20/17 18:32:47.623 [TID=4572] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:32:47.633 [TID=4572] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:32:51.819 [TID=4572] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:33:47.128 [TID=6072] CPAPI_NewCryptoContext: Step1
+12/20/17 18:33:47.128 [TID=6072] CPAPI_NewCryptoContext: Step2
+12/20/17 18:33:47.128 [TID=6072] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:33:47.158 [TID=6072] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:33:51.124 [TID=6072] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:35:47.571 [TID=6116] CPAPI_NewCryptoContext: Step1
+12/20/17 18:35:47.571 [TID=6116] CPAPI_NewCryptoContext: Step2
+12/20/17 18:35:47.571 [TID=6116] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:35:47.591 [TID=6116] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:35:52.168 [TID=6116] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:37:10.891 [TID=5576] CPAPI_NewCryptoContext: Step1
+12/20/17 18:37:10.891 [TID=5576] CPAPI_NewCryptoContext: Step2
+12/20/17 18:37:10.891 [TID=5576] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:37:10.921 [TID=5576] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:37:14.867 [TID=5576] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:44:32.026 [TID=4352] CPAPI_NewCryptoContext: Step1
+12/20/17 18:44:32.026 [TID=4352] CPAPI_NewCryptoContext: Step2
+12/20/17 18:44:32.026 [TID=4352] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:44:32.046 [TID=4352] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:44:36.051 [TID=4352] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:47:29.441 [TID=5660] CPAPI_NewCryptoContext: Step1
+12/20/17 18:47:29.441 [TID=5660] CPAPI_NewCryptoContext: Step2
+12/20/17 18:47:29.441 [TID=5660] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:47:29.461 [TID=5660] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:47:33.526 [TID=5660] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:52:05.978 [TID=5084] CPAPI_NewCryptoContext: Step1
+12/20/17 18:52:05.978 [TID=5084] CPAPI_NewCryptoContext: Step2
+12/20/17 18:52:05.978 [TID=5084] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:52:05.988 [TID=5084] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:52:10.094 [TID=5084] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 18:54:43.124 [TID=1300] CPAPI_NewCryptoContext: Step1
+12/20/17 18:54:43.124 [TID=1300] CPAPI_NewCryptoContext: Step2
+12/20/17 18:54:43.124 [TID=1300] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 18:54:43.144 [TID=1300] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 18:54:47.671 [TID=1300] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:02:12.666 [TID=4712] CPAPI_NewCryptoContext: Step1
+12/20/17 19:02:12.666 [TID=4712] CPAPI_NewCryptoContext: Step2
+12/20/17 19:02:12.666 [TID=4712] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:02:12.676 [TID=4712] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 19:02:16.591 [TID=4712] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:20:40.689 [TID=5984] CPAPI_NewCryptoContext: Step1
+12/20/17 19:20:40.689 [TID=5984] CPAPI_NewCryptoContext: Step2
+12/20/17 19:20:40.689 [TID=5984] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:20:40.699 [TID=5984] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 19:21:06.973 [TID=4640] CPAPI_NewCryptoContext: Step1
+12/20/17 19:21:06.973 [TID=4640] CPAPI_NewCryptoContext: Step2
+12/20/17 19:21:06.973 [TID=4640] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:21:06.983 [TID=4640] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 19:21:11.325 [TID=4640] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:21:14.002 [TID=4640] CPAPI_NewCryptoContext: Step1
+12/20/17 19:21:14.002 [TID=4640] CPAPI_NewCryptoContext: Step2
+12/20/17 19:21:14.408 [TID=4640] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 2
+12/20/17 19:21:16.818 [TID=5108] process_step3: Step1, nServerSysNo = 0
+12/20/17 19:22:02.552 [TID=4176] CPAPI_FreeCryptoContext: Step1
+12/20/17 19:22:02.552 [TID=4176] CPAPI_FreeCryptoContext: Step2
+12/20/17 19:22:02.552 [TID=4176] FreeKADevice: Step1 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 2
+12/20/17 19:22:02.552 [TID=4176] FreeKADevice: Step2 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:22:07.569 [TID=4640] on_dll_process_detach
+12/20/17 19:22:24.493 [TID=5852] CPAPI_NewCryptoContext: Step1
+12/20/17 19:22:24.493 [TID=5852] CPAPI_NewCryptoContext: Step2
+12/20/17 19:22:24.493 [TID=5852] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:22:24.493 [TID=5852] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 19:22:28.589 [TID=5852] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:22:28.589 [TID=5852] CPAPI_NewCryptoContext: Step1
+12/20/17 19:22:28.589 [TID=5852] CPAPI_NewCryptoContext: Step2
+12/20/17 19:22:28.990 [TID=5852] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 2
+12/20/17 19:22:31.924 [TID=5136] process_step3: Step1, nServerSysNo = 0
+12/20/17 19:24:37.855 [TID=4448] CPAPI_FreeCryptoContext: Step1
+12/20/17 19:24:37.855 [TID=4448] CPAPI_FreeCryptoContext: Step2
+12/20/17 19:24:37.855 [TID=4448] FreeKADevice: Step1 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 2
+12/20/17 19:24:37.855 [TID=4448] FreeKADevice: Step2 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:27:25.606 [TID=5384] CPAPI_NewCryptoContext: Step1
+12/20/17 19:27:25.606 [TID=5384] CPAPI_NewCryptoContext: Step2
+12/20/17 19:27:25.606 [TID=5384] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:27:25.626 [TID=5384] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00CA5CB0
+12/20/17 19:27:25.897 [TID=5384] FreeKADevice: Step1 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:27:25.897 [TID=5384] FreeKADevice: Step2 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00000000, g_nKAClientContextCount = -1
+12/20/17 19:27:25.897 [TID=5384] FreeKADevice: before pfSBKA_CloseSession, pfSBKA_CloseSession = 00CA5CB0
+12/20/17 19:27:25.897 [TID=5384] FreeKADevice: before pfSBKA_Done
+12/20/17 19:27:25.897 [TID=5384] FreeKADevice: before GetModuleHandle
+12/20/17 19:27:25.897 [TID=5384] FreeKADevice: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = -1
+12/20/17 19:27:25.897 [TID=5384] FreeKADevice: Step4 g_pKAClientFunctions = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:27:36.011 [TID=4620] CPAPI_NewCryptoContext: Step1
+12/20/17 19:27:36.011 [TID=4620] CPAPI_NewCryptoContext: Step2
+12/20/17 19:27:36.011 [TID=4620] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:27:36.031 [TID=4620] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 19:27:40.367 [TID=4620] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:36:33.845 [TID=5852] on_dll_process_detach
+12/20/17 19:37:49.443 [TID=4940] CPAPI_NewCryptoContext: Step1
+12/20/17 19:37:49.443 [TID=4940] CPAPI_NewCryptoContext: Step2
+12/20/17 19:37:49.443 [TID=4940] CPAPI_NewCryptoContext: Step3 g_pKAClientFunctions = 00000000, g_pKAClientContext = 00000000, g_nKAClientContextCount = 0
+12/20/17 19:37:49.443 [TID=4940] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, pfSBKA_CloseSession = 00D45CB0
+12/20/17 19:37:53.549 [TID=4940] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 1
+12/20/17 19:37:53.549 [TID=4940] CPAPI_NewCryptoContext: Step1
+12/20/17 19:37:53.549 [TID=4940] CPAPI_NewCryptoContext: Step2
+12/20/17 19:37:53.930 [TID=4940] CPAPI_NewCryptoContext: Step4 g_pKAClientFunctions = 00BAF010, g_pKAClientContext = 00BAF140, g_nKAClientContextCount = 2
+12/20/17 19:37:56.814 [TID=5832] process_step3: Step1, nServerSysNo = 0
+12/20/17 19:38:08.811 [TID=4940] on_dll_process_detach
